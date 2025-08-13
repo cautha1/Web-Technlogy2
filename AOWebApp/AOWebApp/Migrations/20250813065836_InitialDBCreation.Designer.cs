@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace AOWebApp.Migrations
 {
     [DbContext(typeof(AOWebAppContext))]
-    [Migration("20250811062911_InitialDBCreation")]
+    [Migration("20250813065836_InitialDBCreation")]
     partial class InitialDBCreation
     {
         /// <inheritdoc />
@@ -38,7 +38,7 @@ namespace AOWebApp.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<decimal>("itemPrice")
-                        .HasColumnType("decimal(8, 2");
+                        .HasColumnType("decimal(8, 2)");
 
                     b.HasKey("itemID");
 

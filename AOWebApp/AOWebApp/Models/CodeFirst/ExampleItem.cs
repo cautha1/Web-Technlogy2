@@ -20,7 +20,7 @@ namespace AOWebApp.Models.CodeFirst
         [Display(Name ="Price")]
         [Required(ErrorMessage ="You must provide an item price")]
         [DataType(DataType.Currency)]
-        [Column(TypeName ="decimal(8, 2")]
+        [Column(TypeName ="decimal(8, 2)")]
         public decimal itemPrice { get; set; }
 
     }

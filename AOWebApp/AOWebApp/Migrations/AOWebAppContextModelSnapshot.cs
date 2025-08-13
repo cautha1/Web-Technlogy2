@@ -35,7 +35,7 @@ namespace AOWebApp.Migrations
                         .HasColumnType("nvarchar(100)");
 
                     b.Property<decimal>("itemPrice")
-                        .HasColumnType("decimal(8, 2");
+                        .HasColumnType("decimal(8, 2)");
 
                     b.HasKey("itemID");
 
