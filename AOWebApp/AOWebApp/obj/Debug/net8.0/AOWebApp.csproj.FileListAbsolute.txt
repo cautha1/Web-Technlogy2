@@ -291,10 +291,10 @@ C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\st
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\AOWebApp.csproj.Up2Date
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\AOWebApp.dll
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\refint\AOWebApp.dll
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\AOWebApp.pdb
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\AOWebApp.genruntimeconfig.cache
 C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\ref\AOWebApp.dll
+C:\Users\cauth\source\repos\Web-Technlogy2\AOWebApp\AOWebApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

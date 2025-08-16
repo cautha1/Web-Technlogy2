@@ -6,8 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
-builder.Services.AddDbContext<AOWebAppContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("AOWebAppContext") ?? throw new InvalidOperationException("Connection string 'AOWebAppContext' not found.")));
+builder.Services.AddDbContext<AmazonOrders2025Context>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("AmazonOrders2025Context") ?? throw new InvalidOperationException("Connection string 'AmazonOrders2025Context' not found.")));
 
 var app = builder.Build();
 

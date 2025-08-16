@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\data\\amazonorders2025context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\data\\amazonorders2025context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\aowebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\aowebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -11,24 +27,12 @@
       "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\data\\aowebappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\models\\codefirst\\exampleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\models\\codefirst\\exampleitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\controllers\\exampleitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\controllers\\exampleitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\views\\exampleitems\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -37,6 +41,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\views\\exampleitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\views\\exampleitems\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|c:\\users\\cauth\\source\\repos\\web-technlogy2\\aowebapp\\aowebapp\\migrations\\20250813065836_initialdbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910B48E0-C7E8-410B-A11B-6968E7B52103}|AOWebApp\\AOWebApp.csproj|solutionrelative:aowebapp\\migrations\\20250813065836_initialdbcreation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,50 +54,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AOWebAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AOWebAppContext.cs",
-              "RelativeDocumentMoniker": "AOWebApp\\Data\\AOWebAppContext.cs",
-              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AOWebAppContext.cs",
-              "RelativeToolTip": "AOWebApp\\Data\\AOWebAppContext.cs",
+              "DocumentIndex": 0,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "AOWebApp\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "AOWebApp\\Controllers\\ItemsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T07:15:36.404Z",
+              "WhenOpened": "2025-08-13T09:00:15.581Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AmazonOrders2025Context.cs",
+              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AmazonOrders2025Context.cs",
+              "RelativeDocumentMoniker": "AOWebApp\\Data\\AmazonOrders2025Context.cs",
+              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AmazonOrders2025Context.cs",
+              "RelativeToolTip": "AOWebApp\\Data\\AmazonOrders2025Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T08:38:20.151Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "20250813065836_InitialDBCreation.cs",
-              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
-              "RelativeDocumentMoniker": "AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
-              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
-              "RelativeToolTip": "AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:58:36.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\appsettings.json",
               "RelativeDocumentMoniker": "AOWebApp\\appsettings.json",
               "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\appsettings.json",
               "RelativeToolTip": "AOWebApp\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-13T06:19:56.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T06:19:56.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "AOWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Program.cs",
+              "RelativeToolTip": "AOWebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T05:51:23.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "AOWebApp.csproj",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\AOWebApp.csproj",
               "RelativeDocumentMoniker": "AOWebApp\\AOWebApp.csproj",
@@ -97,12 +115,35 @@
               "RelativeToolTip": "AOWebApp\\AOWebApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-13T05:51:06.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T05:51:06.679Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "AOWebAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AOWebAppContext.cs",
+              "RelativeDocumentMoniker": "AOWebApp\\Data\\AOWebAppContext.cs",
+              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Data\\AOWebAppContext.cs",
+              "RelativeToolTip": "AOWebApp\\Data\\AOWebAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:15:36.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250813065836_InitialDBCreation.cs",
+              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
+              "RelativeDocumentMoniker": "AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
+              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
+              "RelativeToolTip": "AOWebApp\\Migrations\\20250813065836_InitialDBCreation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T06:58:36.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ExampleItem.cs",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Models\\CodeFirst\\ExampleItem.cs",
               "RelativeDocumentMoniker": "AOWebApp\\Models\\CodeFirst\\ExampleItem.cs",
@@ -110,12 +151,11 @@
               "RelativeToolTip": "AOWebApp\\Models\\CodeFirst\\ExampleItem.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAzwBYAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T06:53:18.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T06:53:18.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Views\\ExampleItems\\Details.cshtml",
               "RelativeDocumentMoniker": "AOWebApp\\Views\\ExampleItems\\Details.cshtml",
@@ -123,12 +163,11 @@
               "RelativeToolTip": "AOWebApp\\Views\\ExampleItems\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T05:56:24.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T05:56:24.628Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ExampleItemsController.cs",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Controllers\\ExampleItemsController.cs",
               "RelativeDocumentMoniker": "AOWebApp\\Controllers\\ExampleItemsController.cs",
@@ -136,12 +175,11 @@
               "RelativeToolTip": "AOWebApp\\Controllers\\ExampleItemsController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T05:53:38.625Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T05:53:38.625Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Views\\ExampleItems\\Index.cshtml",
               "RelativeDocumentMoniker": "AOWebApp\\Views\\ExampleItems\\Index.cshtml",
@@ -149,21 +187,7 @@
               "RelativeToolTip": "AOWebApp\\Views\\ExampleItems\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-13T05:53:07.104Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Program.cs",
-              "RelativeDocumentMoniker": "AOWebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\cauth\\source\\repos\\Web-Technlogy2\\AOWebApp\\AOWebApp\\Program.cs",
-              "RelativeToolTip": "AOWebApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-13T05:51:23.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-13T05:53:07.104Z"
             }
           ]
         }
